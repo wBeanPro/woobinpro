@@ -2,22 +2,20 @@
 
 
 <p>Welcome to my page! </br> I'm Woo Bin, Full-stack developer focused on Python and mobile app development.</p>
+<p align="center"><img align="center" style="width:96%" src="visionnaire-linguagens-de-programacao_14045_img.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20web%20and%20app%20developer;6+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
 </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Bitcoin" src="https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a" />
-  <img alt="Bitcoin" src="https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a" />
-  <img alt="Bitcoin" src="https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a" />
-  <img alt="Bitcoin" src="https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a" />
-  <img alt="Bitcoin" src="https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a" />
-  <img alt="Bitcoin" src="https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" /> 
-  <img alt="Android" src="https://img.shields.io/badge/-Android-45b8d8?style=flat-square&logo=android&logoColor=white" />
-  <img alt="Swift" src="https://img.shields.io/badge/-Swift-45b8d8?style=flat-square&logo=swift&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-45b8d8?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-1233d2?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Flask-25b853?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Selenium-92b8d3?style=flat-square&logo=selenium&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/-Android-65a8d8?style=flat-square&logo=android&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-ad08da?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-75b8d8?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-352848?style=flat-square&logo=java&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -37,6 +35,11 @@
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  
+  <img alt="Bitcoin" src="https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a" />
+  <img alt="Bitcoin" src="https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a" />
+  <img alt="Bitcoin" src="https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a" />
+  <img alt="Bitcoin" src="https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a" />
+  <img alt="Bitcoin" src="https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a" />
+  <img alt="Bitcoin" src="https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a" />
 </p>
 
