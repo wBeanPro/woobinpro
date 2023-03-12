@@ -2,7 +2,9 @@
 
 
 <p>Welcome to my page! </br> I'm Woo Bin, Full-stack developer focused on Python and mobile app development.</p>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20web%20and%20app%20developer;6+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
+</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Bitcoin" src="https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a" />
